@@ -3,9 +3,9 @@ project:
 
 website: 
   page-navigation: true
-  title: "NOAA quarto simple" 
-  site-url: "https://nmfs-ost.github.io/PAM_template_lab_manual/" 
-  repo-url: "https://github.com/nmfs-ost/PAM_template_lab_manual"
+  title: "SFSU quarto simple" 
+  site-url: "https://asimonis.github.io/SFSUAcousticEcology/" 
+  repo-url: "https://github.com/asimonis/SFSUAcousticEcology/tree/main"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
@@ -15,63 +15,37 @@ website:
   
   sidebar:
     background: "#D9E3E4"
-    logo: "https://upload.wikimedia.org/wikipedia/commons/7/79/NOAA_logo.svg"
+    logo: "https://commons.wikimedia.org/wiki/File:San_Francisco_State_Gators_logo.svg"
     favicon: images/favicon.ico
     pinned: true
     align: center
     tools: 
-      - icon: globe
-        href: https://nmfs-ost.github.io/PAM_National_NMFS_Network
-        text: "NMFS National Passive Acoustic Monitoring Network"
       - icon: github
-        href: https://github.com/nmfs-ost/PAM_template_lab_manual
-        text: "NMFS PAM SI Lab Manual Template"
+        href: https://asimonis.github.io/SFSUAcousticEcology/
+        text: "SFSU Acoustic Ecology"
 
     style: "docked"
     search: true
-    collapse-level: 1
+    collapse-level: 2
     contents:
       - href: index.qmd
         text: Home
-      - section: content/LabManagement.qmd
+      - href: content/SharedValues-BestPractices.qmd
+        text: Shared Values and Best Practices
+      - href: content/PublicationsPresentations.qmd
+        text: Publications and Presentations
+      - section: "Open Science"
         contents: 
-          - href: content/Safety.qmd
-            text: Safety
-          - href: content/Inventory.qmd
-            text: Inventory
-          - href: content/Hardware.qmd
-            text: Hardware
-      - href: content/FieldMethods.qmd
-        text: "Field Methods"
-      - href: content/DataManagement.qmd
-        text: Data Management
-      - href: content/Hardware.qmd
-        text: Hardware
-      - section: content/SoftwareAnalysis.qmd
-#        text: "Software & Analysis"
-        contents: 
-          - content/Software.qmd
-          - content/AnalysisMethods.qmd
-      - href: content/Reporting.qmd
-        text: Reporting
-      - section: "Optional Pages"
-        contents: 
-          - content/SharedValues.qmd
-          - content/Onboarding.qmd
-          - content/Offboarding.qmd
-          - content/FieldMethods.qmd
-          - content/OpenScience.qmd
-          - content/PublicationsPresentations.qmd
-          - content/Resources.qmd
-      - section: "NMFS Open Science Directions"
-        contents:
-          - content/NMFS_OpenSciDirections/Intro.qmd
-          - content/NMFS_OpenSciDirections/add-content.qmd
-          - content/NMFS_OpenSciDirections/customizing.qmd
-          - content/NMFS_OpenSciDirections/rendering.qmd
-          - content/NMFS_OpenSciDirections/rmarkdown.Rmd
-          - content/NMFS_OpenSciDirections/code.qmd
-          - content/NMFS_OpenSciDirections/acknowledgements.qmd 
+        - href: content/Getting-Started.qmd
+          text: Getting Started
+        - href: content/Stack-Exchange.qmd
+          text: Stack Exchange
+        - href: content/ResearchGuide.qmd
+          text: Research Guide
+        - href: content/WritingGuide.qmd
+          text: Writing Guide
+        - href: content/Zotero.qmd
+          text: Zotero
         
 format:
   html:

@@ -2,6 +2,10 @@
 title: Publications and Presentations
 ---
 
-This is an optional page but is a great opportunity to highlight some of your publications and presentations.
+# Publications and Presentations
 
-SAEL example (add once this page is corrected)
+## Journal Articles
+
+[Rankin, S., Sakai, T., Archer, F. I., Barlow, J., Cholewiak, D., DeAngelis, A. I., … & Trickey, J. S. (2024). *Open-source machine learning BANTER acoustic classification of beaked whale echolocation pulses.* Ecological Informatics, 80, 102511.](https://www.sciencedirect.com/science/article/am/pii/S1574954124000530)
+
+## Master's Theses
