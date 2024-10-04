@@ -30,7 +30,7 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: content/SharedValues-BestPractices.qmd
+      - href: content/SharedValues.qmd
         text: Shared Values and Best Practices
       - href: content/PublicationsPresentations.qmd
         text: Publications and Presentations
