@@ -3,11 +3,12 @@ project:
 
 website: 
   page-navigation: true
-  title: "SFSU quarto simple" 
+  title: "SFSU Acoustic Ecology" 
   site-url: "https://asimonis.github.io/SFSUAcousticEcology/" 
-  repo-url: "https://github.com/asimonis/SFSUAcousticEcology/tree/main"
+  repo-url: "https://github.com/asimonis/SFSUAcousticEcology/"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
+  search: true
   
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
@@ -26,7 +27,7 @@ website:
 
     style: "docked"
     search: true
-    collapse-level: 2
+    collapse-level: 1
     contents:
       - href: index.qmd
         text: Home
