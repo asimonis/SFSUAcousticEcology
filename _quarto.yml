@@ -23,7 +23,7 @@ website:
     tools: 
       - icon: github
         href: https://asimonis.github.io/SFSUAcousticEcology/
-        text: "SFSU Acoustic Ecology"
+        text: "Simonis Lab at SFSU"
 
     style: "docked"
     search: true

@@ -2,10 +2,38 @@
 title: Publications and Presentations
 ---
 
-# Publications and Presentations
-
 ## Journal Articles
 
-[Rankin, S., Sakai, T., Archer, F. I., Barlow, J., Cholewiak, D., DeAngelis, A. I., … & Trickey, J. S. (2024). *Open-source machine learning BANTER acoustic classification of beaked whale echolocation pulses.* Ecological Informatics, 80, 102511.](https://www.sciencedirect.com/science/article/am/pii/S1574954124000530)
+1.     [Rankin S., Sakai T., Archer F.I., Barlow J., Cholewiak D., DeAngelis A.I., McCullough J.L., Oleson E.M., **Simonis A.E.,** Soldevilla M.S., Trickey J.S. (2024) Open-source machine learning BANTER acoustic classification of beaked whale echolocation pulses. *Ecological Informatics*. 1;80:102511](https://www.sciencedirect.com/science/article/am/pii/S1574954124000530).
+
+2.     Krumpel, A., Rice, A., Frasier, K. E., Reese, F., Trickey, J. S., **Simonis, A. E**., ... & D’Spain, G. L. (2021) Long-Term Patterns of Noise From Underwater Explosions and Their Relation to Fisheries in Southern California. *Journal of the Acoustical Society of America*, 150(3), 1821-1829.
+
+3.     McCullough, J.L.K., **Simonis, A. E.,** Sakai, T., & Olson, E. M. (2021)Acoustic classification of false killer whales in the Hawaiian Islands based on comprehensive vocal repertoire. *JASA Express Letters*, *1*(7), 071201
+
+4.     **Simonis, A. E.,** Trickey, J., Barlow, J., Rankin, S., Urban, J. Rojas-Bracho, L. & Moore, J.E. (2020) Passive Acoustic Survey of Deep-Diving Odontocetes in the California Current Ecosystem 2018: Final Report. *NOAA Tech Memo:* NMFS-SWFSC-630.
+
+5.     **Simonis, A. E.,** Forney, K. A., Rankin, S., Ryan, J., Zhang, Y., DeVogelaere, A., ... & Baumann-Pickering, S. (2020). Seal Bomb Noise as a Potential Threat to Monterey Bay Harbor Porpoise. *Frontiers in Marine Science*, *7*, 142.
+
+6.     **Simonis, A. E.,** Brownell Jr, R. L., Thayre, B. J., Trickey, J. S., Oleson, E. M., Huntington, R., & Baumann-Pickering, S. (2020). Co-occurrence of beaked whale strandings and naval sonar in the Mariana Islands, Western Pacific. *Proceedings of the Royal Society B*, *287*(1921), 20200070.
+
+7.     **Simonis, A.E.,** Roch, M.A., Baily, B., Barlow, J., Clemesha, R.E.S, Iacobellis, S., Hildebrand, J.A., Baumann-Pickering, S. (2017). Lunar cycles affect common dolphin (*Delphinus delphis*) foraging in the Southern California Bight. *Marine Ecology Progress Series*.
+
+8.     Reyes Reyes, M.V., Baumann-Pickering, S., **Simonis, A.E**., Trickey, J., Melcon, M., Hildebrand, J.A., Iniguez, M. (2017). High-frequency modulated signals recorded off Antarctic area: Are killer whales emitting them? *Australian Acoustics*.
+
+9.     Bayless, A.R., Oleson, E.M., Baumann-Pickering, S**., Simonis, A.E**, Marchetti, J., Martin, S., and Wiggins, S.M. (2017). Acoustically Monitoring the Hawaii Longline Fishery for Interactions with False Killer Whales. *Fisheries Research, 190*, 122-131.
+
+10.  Baumann-Pickering, S., **Simonis, A.E.,** Oleson, E. M., Baird, R. W., Roch, M. A., and Wiggins, S. M. (2015). False killer whale and short-finned pilot whale acoustic identification. *Endangered Species Research, 28(2)*, 97-108.
+
+11.  Rankin, S., Oswald, J. N., **Simonis, A.E**., and Barlow, J. (2015). Vocalizations of the rough-toothed dolphin, Steno bredanensis, in the Pacific Ocean. *Marine Mammal Science, 31(4)*, 1538-1548.
+
+12.  Samarra, F.I., Deecke, V.B., **Simonis, A.E.** and Miller, P.J., (2015). Geographic variation in the time-frequency characteristics of high-frequency whistles produced by killer whales (*Orcinus orca*). *Marine Mammal Science, 31(2)*, 688-706.
+
+13.  Baumann-Pickering S., Roch M.A., Brownell Jr R.L., **Simonis A.E**., McDonald M.A., et al. (2014). Spatio-Temporal Patterns of Beaked Whale Echolocation Signals in the North Pacific. *PLoS ONE, 9(1)*
+
+14.  Baumann-Pickering, S., McDonald, M.A., **Simonis, A.E**., Berga, A.S., Merkens, K.P., Oleson, E.M., Roch, M.A., Wiggins, S.M., Rankin, S., Yack, T.M. and Hildebrand, J.A., (2013). Species-specific beaked whale echolocation signals. *The Journal of the Acoustical Society of America, 134(3)*, 2293-2301.
+
+15.  Baumann-Pickering, S., **Simonis, A.E**., Wiggins, S.M., Brownell Jr, R.L. and Hildebrand, J.A., (2013). Aleutian Islands beaked whale echolocation signals. *Marine Mammal Science, 29(1)*, 221-227.
+
+16.  **Simonis, A.E.,** Baumann-Pickering, S., Oleson, E., Melcon, M.L., Gassmann, M., Wiggins, S.M. and Hildebrand, J.A., (2011). High-frequency modulated signals of killer whales (*Orcinus orca*) in the North Pacific. *The Journal of the Acoustical Society of America, 130(4)*, 2322-2322.
 
 ## Master's Theses
